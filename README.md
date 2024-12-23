@@ -40,7 +40,7 @@ pip install gradio requests
 4. **Interact with the interface**: Enter the required details in the Gradio web interface and submit to make the API call.
 
 ## Deployment
-This application can instantly run locally. For web deployment, consider using platforms like Heroku, AWS, or Google Cloud to host the application. Currently it is deployed under Hugging Face Spaces with Free setup. https://huggingface.co/spaces/skyvera/AIPhoneAgent
+This application can instantly run locally. For web deployment, consider using platforms like Heroku, AWS, or Google Cloud to host the application. Currently it is deployed under Hugging Face Spaces with Free setup. https://huggingface.co/spaces/jhparmar/AIPhoneAgent
 Details on Hugging Face Deployment: https://www.gradio.app/guides/using-hugging-face-integrations#hosting-your-gradio-demos-on-spaces
 
 ## Configuration Reference
